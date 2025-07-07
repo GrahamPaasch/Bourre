@@ -1,2 +1,2 @@
 # Bourre
-The definitive mobile app for NBA players to make bad choices
+The definitive mobile app for NBA players to make bad choices with
